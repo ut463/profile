@@ -2,3 +2,4 @@ Challenge 2
 In this challenge I created a webpage as a starter for a profile. I started by creating a header with a list of links to different parts of the page with a css. i then created a cool banner section with an added picture. Thirdly i created a section with a quick sentence about my interests. The next section I added gave me the most trouble as I missed a typo in my html code not allowing the css to run. in this section i added two images one that linked to my first challenge and the second linked to my github. i also made sure the first image is larger than the first one. I then created a footer by copying the code from my header and adding links to things off my page. Lastly i made a media query in the css folder!
 
 ![screenshot of website](<assets/images/website working challenge 2.png>)
+deploy link https://ut463.github.io/profile/
